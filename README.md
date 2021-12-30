@@ -7,3 +7,11 @@ It bugged me so much that nobody has made this kind of chase cam that I had to m
 Clone to `\steamapps\common\assettocorsa\extension\lua\chaser-camera`
 
 In Content manager go to `SETTINGS` -> `CUSTOM SHADERS PATCH` -> `CHASER CAMERA` and select `Script used` -> `ProperChaseCam`
+
+
+### TODO
+
+- Joystick
+  - My PS3 joystick look doesn't work so I don't know if I'll ever do that because I cannot test it
+  - I would also want pretty specific joystick behaviour, like in GTA, without super aggressive auto center
+    - This is probably harder than 5 minute implementation
